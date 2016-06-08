@@ -1,19 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:37.246460
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:12
 #+TITLE: 地藏菩薩十齋日
 #+PROPERTY: CBETA_ID W07n0064e
 #+PROPERTY: ID KR6v0081
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064e
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0081_W_000-0354a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6v0081_W_001-0354a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 
-錄文五¶
+* 〔錄文五〕¶
 ¶
 
 每月十齋日：¶
